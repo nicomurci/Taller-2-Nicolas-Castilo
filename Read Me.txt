@@ -1,0 +1,7 @@
+Estudiante: Nicolás Adolfo Castillo Betancourt
+
+Archivos csv necesarios: Por favor cargar antes de iniciar el proyecto los archivos "gapminder_final.csv" y "oil_consumption_per_cap_2010.csv"
+Librerias utilizadas: pandas, matplotlib.pyplot, seaborn, scikit-learn
+Para que el proyecto funcione correctamente la carpeta principal del notebook se debe llamar "sample_data"
+Por favor Ejecutar secuencialmente el notebook mientras se van revisando los análisis realizados de tipo técinco y de negocio
+El reporte ejecutivo se llama "Informe Ejecutivo - Nicolás Castillo"
